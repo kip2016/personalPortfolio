@@ -1,0 +1,69 @@
+ 
+*{
+    box-sizing: border-box;
+  
+  }
+a{
+    text-decoration: none;
+}
+  @media(min-width: 480px) {
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 24px;
+        font-style: italic;
+        text-align: center;
+        color: #012740;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    
+    }
+  }
+#projects{
+
+    background-color: dimgray;
+
+  }
+
+li:hover{
+    background-color:grey;
+}
+
+.together
+{
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+    
+    
+}
+.coffee
+{
+    color: aliceblue;
+}
+footer
+{
+    background-color: #1b212b;
+}
+.copyright
+{
+    color: aliceblue;
+}
+.line
+{
+    color: red;
+    border: 2px solid;
+}
+.fontawesome
+{
+    color: aliceblue;
+
+}
+i
+{
+    margin-right: 10px;
+}
+.nature
+{
+    background-color: #1b212b;
+}
